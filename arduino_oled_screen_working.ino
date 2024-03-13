@@ -1,20 +1,8 @@
 //---------------------------------------------------------
 /*
-
-  test.ino
-
-  Program for writing to Newhaven Display's 160x128 Graphic Color OLED with SEPS525 controller.
-
-  Pick one up today in the Newhaven Display shop!
-  ------> http://www.newhavendisplay.com/nhd169160128ugc3-p-5603.html
+  The following code is to display text, icon, image, screen on SSEPS525 display using arduino code
 
   This code is written for the Arduino Uno R3.
-
-  Copyright (c) 2015 - Newhaven Display International, LLC.
-
-  Newhaven Display invests time and resources providing this open source code,
-  please support Newhaven Display by purchasing products from Newhaven Display!
-
 */
 //---------------------------------------------------------
 
